@@ -1,0 +1,22 @@
+[
+  {
+    "model": "project.project",
+    "pk": 1,
+    "fields": {
+      "created_at": "2021-03-03T16:00:00Z",
+      "updated_at": "2021-03-03T16:00:00Z",
+      "name": "Domino",
+      "code": "DMN"
+    }
+  },
+  {
+    "model": "project.project",
+    "pk": 2,
+    "fields": {
+      "created_at": "2020-12-31T16:00:00Z",
+      "updated_at": "2020-12-31T16:00:00Z",
+      "name": "KitKat",
+      "code": "KTKT"
+    }
+  }
+]
